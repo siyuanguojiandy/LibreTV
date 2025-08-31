@@ -2,27 +2,7 @@ const CUSTOMER_SITES = {
     maoyan: {
         api: 'https://api.maoyanapi.top/api.php/provide/vod',
         name: '猫眼资源',
-    },
-    ruyi: {
-        api: 'https://cj.rycjapi.com/api.php/provide/vod',
-        name: '如意资源',
-    },
-    wolong: {
-        api: 'https://wolongzyw.com/api.php/provide/vod',
-        name: '卧龙资源',
-    }, 
-    dbzy: {
-        api: 'https://dbzy.tv/api.php/provide/vod',
-        name: '豆瓣资源',
-    },
-    modu: {
-        api: 'https://www.mdzyapi.com/api.php/provide/vod',
-        name: '魔都资源'
-    },
-    maotai: {
-        api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
-        name: '茅台资源',
-    },
+    }
 };
 
 // 调用全局方法合并
