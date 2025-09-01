@@ -23,6 +23,23 @@ const CUSTOMER_SITES = {
         api: 'https://api.maoyanapi.top/api.php/provide/vod',
         name: '猫眼资源',
     },
+    jisu: {
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "name": "极速资源",
+      "detail": "https://jszyapi.com"
+    },
+    tyyszy: {
+      "api": "https://tyyszy.com/api.php/provide/vod",
+      "name": "天涯资源"
+    },
+    zuid: {
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "name": "最大资源"
+    },
+    wujin: {
+      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "name": "无尽资源"
+    },
 };
 
 // 调用全局方法合并
