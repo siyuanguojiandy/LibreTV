@@ -36,9 +36,9 @@ const CUSTOMER_SITES = {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "name": "最大资源"
     },
-    wujin: {
-      "api": "https://api.wujinapi.me/api.php/provide/vod",
-      "name": "无尽资源"
+    wwdj: {
+      "api": "https://api.wwzy.tv/api.php/provide/vod",
+      "name": "旺旺短剧",
     },
 };
 
